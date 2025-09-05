@@ -289,5 +289,5 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
   <h3>🎶 Hecho con ❤️ y mucha música 🎶</h3>
   <p><em>"Donde la tecnología se encuentra con la pasión musical"</em></p>
 
-[![GitHub stars](https://img.shields.io/github/stars/username/spotify-mood?style=social)](https://github.com/johernandezvaz/spotifymood)
+[![GitHub stars](https://img.shields.io/github/stars/username/spotify-mood?style=social)](https://github.com/johernandezvaz/spotifymood.git)
 </div>
