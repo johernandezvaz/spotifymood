@@ -29,7 +29,6 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=150" width="100" style="border-radius: 50%;">
       <br>
       <strong>José Hernández</strong>
       <br>
@@ -38,7 +37,6 @@
       🔧 Go • Fiber • OAuth2 • APIs
     </td>
     <td align="center">
-      <img src="https://images.pexels.com/photos/3778876/pexels-photo-3778876.jpeg?auto=compress&cs=tinysrgb&w=150" width="100" style="border-radius: 50%;">
       <br>
       <strong>Santos Chavarría</strong>
       <br>
