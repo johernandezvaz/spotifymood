@@ -202,7 +202,7 @@ graph TD
 
 ```bash
 # 1. Clonar el repositorio
-git clone <repository-url>
+git clone https://github.com/johernandezvaz/spotifymood.git
 cd spotify-mood-app
 
 # 2. Configurar el backend
